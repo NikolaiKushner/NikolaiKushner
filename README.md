@@ -2,4 +2,4 @@ I build interfaces that stay fast when the data doesn't cooperate - dashboards w
 
 **Working with:** Vue · Nuxt · TypeScript · Tailwind · Vite · Vitest
 
-[LinkedIn](https://linkedin.com/in/nikolai-kushner) · [rowkit.dev](https://rowkit.dev) · nickolaikushner@gmail.com
+[rowkit.dev](https://rowkit.dev) · nickolaikushner@gmail.com
