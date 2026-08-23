@@ -2,6 +2,6 @@ I build interfaces that stay fast when the data doesn't cooperate — dashboards
 
 **Working with:** TypeScript · Vue · Nuxt · Next.js · Node.js · Tailwind · Vite · Vitest
 
-[rowkit.dev](https://rowkit.dev) · [getlnk.xyz](https://getlnk.xyz) · [slova.study](https://slova.study) · [nomnomtokens](https://github.com/NikolaiKushner/nomnomtokens) 
+[rowkit.dev](https://rowkit.dev) · [nomnomtokens](https://github.com/NikolaiKushner/nomnomtokens) 
 
 nickolaikushner@gmail.com
