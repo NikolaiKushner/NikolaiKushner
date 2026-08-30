@@ -2,7 +2,7 @@
 
 I build interfaces that stay fast when the data gets messy — dashboards with thousands of rows, filters that need to feel instant, and tools people rely on every day.
 
-Right now, I'm building [**vibeglish.app**](https://vibeglish.app/) end to end — an English-learning product with FSRS-powered vocabulary practice, adaptive grammar courses, graded stories tailored to each learner's vocabulary, and tools that turn any text into personalized learning material.
+Right now, I'm building [**vibenglish.app**](https://vibenglish.app/) end to end — an English-learning product with FSRS-powered vocabulary practice, adaptive grammar courses, graded stories tailored to each learner's vocabulary, and tools that turn any text into personalized learning material.
 
 **Main stack:** TypeScript · Vue · Nuxt · Node.js · PostgreSQL
 
@@ -10,7 +10,7 @@ Right now, I'm building [**vibeglish.app**](https://vibeglish.app/) end to end �
 
 ## Selected work
 
-- [**vibeglish.app**](https://vibeglish.app/) — personalized English learning built around what you already know
+- [**vibenglish.app**](https://vibenglish.app/) — personalized English learning built around what you already know
 - [**rowkit.dev**](https://rowkit.dev/)
 - [**nomnomtokens**](https://www.npmjs.com/package/nomnomtokens) — npm package
 
