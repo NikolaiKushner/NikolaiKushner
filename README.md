@@ -1,17 +1,19 @@
-I build interfaces that stay fast when the data doesn't cooperate — dashboards
-with thousands of rows, filters that can't lag, tools people use every day for
-work that matters to them.
+# Nikolai Kushner
 
-Right now that means building the whole thing, not just the front of it:
-**[vibeglish.app](https://vibeglish.app)** — a full English learning app.
-Vocabulary on an FSRS schedule, grammar courses that bring back the rules you
-got wrong, graded stories ordered by how much of your own dictionary they
-already use, and any text you paste turned into something you can read and
-learn from.
+I build interfaces that stay fast when the data gets messy — dashboards with thousands of rows, filters that need to feel instant, and tools people rely on every day.
 
-**Working with:** TypeScript · Vue · Nuxt · Next.js · Node.js · Prisma ·
-Postgres · Tailwind · Vite · Vitest · Playwright
+Right now, I'm building [**vibeglish.app**](https://vibeglish.app/) end to end — an English-learning product with FSRS-powered vocabulary practice, adaptive grammar courses, graded stories tailored to each learner's vocabulary, and tools that turn any text into personalized learning material.
 
-[vibeglish.app](https://vibeglish.app) · [rowkit.dev](https://rowkit.dev) · [nomnomtokens](https://www.npmjs.com/package/nomnomtokens)
+**Main stack:** TypeScript · Vue · Nuxt · Node.js · PostgreSQL
 
-[nickolaikushner@gmail.com](mailto:nickolaikushner@gmail.com)
+**Also working with:** Next.js · Prisma · Tailwind CSS · Vite · Vitest · Playwright
+
+## Selected work
+
+- [**vibeglish.app**](https://vibeglish.app/) — personalized English learning built around what you already know
+- [**rowkit.dev**](https://rowkit.dev/)
+- [**nomnomtokens**](https://www.npmjs.com/package/nomnomtokens) — npm package
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/nikolai-kushner/) · [Email](mailto:nickolaikushner@gmail.com)
