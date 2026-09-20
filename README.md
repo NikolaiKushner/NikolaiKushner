@@ -11,7 +11,7 @@ Also working with: Next.js · Prisma · Tailwind CSS · Vite · Vitest · Playwr
 ## Selected work
 
 - [vibenglish.app](https://vibenglish.app/) — personalized English learning built around what you already know
-- Quiet Poker — native iOS app built with Swift ([site repo](https://github.com/NikolaiKushner/quiet-poker-site))
+- [quietpoker.app](https://quietpoker.app) — native iOS app built with Swift ([site repo](https://github.com/NikolaiKushner/quiet-poker-site))
 - [rowkit.dev](https://rowkit.dev/)
 - [nomnomtokens](https://www.npmjs.com/package/nomnomtokens) — npm package
 
