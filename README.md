@@ -13,7 +13,6 @@ Right now, I'm building [**vibenglish.app**](https://vibenglish.app/) end to end
 **Products**
 
 - [**vibenglish.app**](https://vibenglish.app/) — English in short daily trainings, built around the words you already know
-- [**Quiet Poker**](https://quietpoker.app/) — a calm Texas Hold'em practice app for iPhone: offline bots, private tables, pot-odds drills
 
 **Open source**
 
