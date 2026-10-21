@@ -13,28 +13,9 @@ My roots are in frontend: interfaces that stay fast when the data gets messy —
 
 ## Products
 
-### [Reps: English Drills](https://apps.apple.com/app/reps-english-drills/id6816098697) · iPhone & iPad
-
-English practice in short drills — words, verbs and grammar, a few minutes a day. Free, no sign-up, **no ads, no tracking, no subscriptions**.
-
-- **Words** — your own dictionary or 32 topic sets, spaced repetition, 7 training types, Word of the day widget
-- **Irregular verbs** — 200 verbs grouped by how they change, voiced at normal and slow speed, 60-second speed round
-- **Grammar** — 34 courses: tenses, modals, conditionals, passive voice and more, with mistakes scheduled for review
-- **Phrases** — 488 ready-made phrases for everyday situations
-- **Dictation** — 916 recorded sentences with feedback on missed, extra and misspelled words
-- Explanations in Russian or English, streaks, home and lock screen widgets, works fully offline
-
-Built with Swift and SwiftUI.
-
-[**→ Download on the App Store**](https://apps.apple.com/app/reps-english-drills/id6816098697)
-
-### Brain Drills · iPhone · in progress
-
-Short daily workouts for your mind, 5–15 minutes. The app is built like a gym: 12 halls, a coach, a warm-up before the heavy lifting, and progress across four qualities — strength, flexibility, endurance and coordination of thinking. 300+ exercises in 8 formats: drills, puzzles, idea sprints, guided exercises, reflection, real-life quests and mini-games. Calm and smart in tone — no "boost your IQ in 7 days".
-
-### [vibenglish.app](https://vibenglish.app/) · Web
-
-English for Russian speakers, a few minutes a day: FSRS-scheduled vocabulary review, grammar A1–B2, a level test, short stories and speaking practice, plus groups that teachers share by link.
+- [**Reps: English Drills**](https://apps.apple.com/app/reps-english-drills/id6816098697) · iOS — English in short daily drills: words, irregular verbs, grammar, phrases and dictation. Works offline, no ads, no tracking, no subscriptions
+- **Brain Drills** · iOS, in progress — a gym for your mind: 5–15 minute daily workouts, 300+ exercises in 12 halls
+- [**vibenglish.app**](https://vibenglish.app/) · Web — English for Russian speakers: spaced-repetition vocabulary, grammar A1–B2, stories and speaking practice
 
 ## Open source
 
