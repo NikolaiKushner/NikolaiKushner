@@ -1,8 +1,8 @@
 # Nikolai Kushner
 
-Product engineer who ships things end to end — from the database schema to the App Store listing. I design, build and launch my own products: web apps, native iOS / macOS apps and open-source tools.
+Product engineer. I design, build and ship my own products: web apps, native iOS / macOS apps and open-source tools.
 
-My roots are in frontend: interfaces that stay fast when the data gets messy — dashboards with thousands of rows, filters that need to feel instant, and tools people rely on every day. These days I bring the same care to mobile: small, focused apps that respect your time, work offline and don't track you.
+Background in frontend, mostly data-heavy interfaces: tables, filters, dashboards. Now also making small, focused apps for Apple platforms that work offline and don't track users.
 
 ## What I'm doing now
 
@@ -19,6 +19,7 @@ My roots are in frontend: interfaces that stay fast when the data gets messy —
 
 ## Open source
 
+- [**rinse**](https://github.com/NikolaiKushner/rinse) — Safari extension for iPhone, iPad and Mac: ad-free YouTube with background playback, plus content blockers for ads and trackers on every site
 - [**rowkit**](https://rowkit.dev/) — Vue 3 component library for data-dense interfaces: tables, filters and the states around them ([npm](https://www.npmjs.com/package/rowkit))
 - [**nomnomtokens**](https://github.com/NikolaiKushner/nomnomtokens) — a local-first dashboard for what your AI coding agent eats: Claude Code spend, per-project cost, limit forecasts ([npm](https://www.npmjs.com/package/nomnomtokens))
 - [**canvas-deck**](https://github.com/NikolaiKushner/canvas-deck) — an infinite macOS canvas where Claude Code agents, their terminals, previews and tasks live side by side
